@@ -9,7 +9,7 @@ export const branches = [
       weekdays: "Mon - Sat: 9:00 AM - 7:00 PM",
       sunday: "Sunday: Closed"
     },
-    mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3822.4567890123!2d77.1234!3d16.7890!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba8f5a123456789%3A0xabcdef1234567890!2sYadgir%2C%20Karnataka%20585202!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin",
+    mapUrl: "https://www.google.com/maps/place/Veda+eye+hospital+first+floor/@16.7545319,77.1283717,52m/data=!3m1!1e3!4m6!3m5!1s0x3bc8530072aab28d:0xa59594ce227f8514!8m2!3d16.7546001!4d77.1282355!16s%2Fg%2F11xyj_q7gt?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D",
     isMain: true
   }
 ]
